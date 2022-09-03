@@ -10,6 +10,9 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+# Ignoring Vuforia Packages
+/[Pp]ackages/com.ptc.vuforia.engine-*
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
